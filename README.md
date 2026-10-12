@@ -20,7 +20,7 @@
 ### Free Online Calculators
 - [BuiltRight Academy Calculators](https://builtright-academy.vercel.app/tools) - 40+ free construction calculators (concrete, paint, roofing, drywall, electrical, HVAC, and more)
 - [Calculator.net Construction](https://www.calculator.net/construction-calculator.html) - Basic construction calculators
-- [SiteCals](https://sitecals.com) - Free construction calculators (204 tools for concrete, framing, roofing, electrical, plumbing, estimating).
+- [SiteCals](https://sitecals.com) - 204 free construction calculators (concrete, framing, roofing, electrical, plumbing, estimating).
 
 
 ### Estimating Software
